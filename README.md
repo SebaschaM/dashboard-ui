@@ -4,7 +4,7 @@
 
 ![Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-dashboard/soft-ui-dashboard-tailwind.jpg)
 
-Most complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/). Check our latest Free TailwindCSS Dashboard.
+Most complex and innovative Dashboard Made by [Sebastian Chaquila](https://creative-tim.com/). Check our latest Free TailwindCSS Dashboard.
 
 Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Soft UI Dashboard Tailwind is ready to help you create stunning websites and webapps.
 
@@ -80,7 +80,7 @@ Let us know your thoughts below. And good luck with development!
 
 Quick start options:
 
-- Download from [Creative Tim](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?ref=readme-sudt).
+- Download from [Sebastian Chaquila](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?ref=readme-sudt).
 
 ## Terminal Commands
 
@@ -146,16 +146,16 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-sudt)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudt)
+- Copyright 2023 [Sebastian Chaquila](https://www.creative-tim.com?ref=readme-sudt)
+- Sebastian Chaquila [license](https://www.creative-tim.com/license?ref=readme-sudt)
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/templates?ref=readme-sudt) from Creative Tim
+- [More products](https://www.creative-tim.com/templates?ref=readme-sudt) from Sebastian Chaquila
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sudt) from Creative Tim
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sudt) from Sebastian Chaquila
 
 - [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sudt) (earn money)
 
